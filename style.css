@@ -82,3 +82,60 @@ h1 {
     background-position: right;
 
 }
+
+/* Experience Section start */
+.experience {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 600px;
+}
+
+.experience-left {
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+
+}
+
+.experience-right {
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.heading-highlight {
+    color: orange;
+}
+
+.box-resize {
+    box-shadow: 10px 10px 40px gray;
+    height: 60%;
+    background-color: white;
+
+}
+
+#border-red {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+
+
+}
+
+#border-blue {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+
+}
+
+.footer p {
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
