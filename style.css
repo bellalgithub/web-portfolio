@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header section */
+h1 {
+    font-size: 50px;
+}
+
+.name-heighlight {
+    color: orange;
+}
+
+.left-part {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.right-part {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+
+
+.profile-img {
+    width: 100%;
+
+}
